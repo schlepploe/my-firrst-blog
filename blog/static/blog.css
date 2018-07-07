@@ -1,0 +1,26 @@
+.page-header {
+    background-color: #F6FA78;
+    margin-top: 30;
+    padding: 50px 100px 50px 60px;
+    text-align: center
+}
+
+h1 a {
+   color: #108720;
+   font-family: 'Lobster';
+   font-size: 40pt
+   
+}
+
+.post {
+    padding: 20px 20px 40px 200px;
+    background-color: #F8FAB6;
+}
+h2 a {
+    color: #1db167;
+    font-family: 'Arial';
+    
+}
+p {
+    color: #555755;
+}
